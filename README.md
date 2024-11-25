@@ -25,4 +25,5 @@ https://github.com/user-attachments/assets/b3f2bde3-23b4-4c62-9b2f-4984af1096a5
 
 homework5
 
-![Uploading homework5.png…]()
+![homework5](https://github.com/user-attachments/assets/f35ec9e2-e793-4aef-89e0-ddc9f1815e4e)
+
